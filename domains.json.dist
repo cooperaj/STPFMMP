@@ -1,0 +1,9 @@
+{
+    "domains": {
+        "192.168.100.1": "router.home",
+        "192.168.100.2": "server.home"
+    },
+    "cnames": {
+        "pihole.home": "server.home"
+    }
+}
